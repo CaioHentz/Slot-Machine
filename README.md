@@ -1,4 +1,4 @@
-##JAVA SLOT MACHINE
+# 🎰 Slot Machine em Java
 
-Basic use of arrays and random indexes...
-Just a late night idea.
+Um joguinho simples de caça-níquel feito em **Java**, rodando direto no console.  
+O jogador pode "girar" os símbolos e ver se consegue combinações para ganhar.  
